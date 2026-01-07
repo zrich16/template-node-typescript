@@ -1,0 +1,80 @@
+{"level":"info","message":"¡Servidor iniciado con éxito!","timestamp":"2026-01-06T18:01:10.157Z"}
+{"level":"warn","message":"Advertencia: Algo no es crítico pero debe revisarse.","timestamp":"2026-01-06T18:01:10.159Z"}
+{"level":"error","message":"¡Error fatal al procesar la solicitud!","timestamp":"2026-01-06T18:01:10.160Z"}
+{"level":"info","message":"Servidor principal ejecutándose en puerto 3000","timestamp":"2026-01-06T18:01:43.343Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T18:15:02.115Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:17:28.156Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:18:27.009Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:24:17.869Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:24:35.549Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:24:54.623Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:25:10.773Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:26:08.125Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:26:19.540Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:26:56.586Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:27:08.336Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:27:14.054Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:28:21.977Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:28:25.420Z"}
+{"level":"info","message":{},"timestamp":"2026-01-06T19:28:25.425Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:32:16.307Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:32:28.606Z"}
+{"level":"info","message":{},"timestamp":"2026-01-06T19:32:28.608Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:32:43.475Z"}
+{"level":"info","message":{},"timestamp":"2026-01-06T19:32:43.476Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:33:01.547Z"}
+{"level":"info","message":{},"timestamp":"2026-01-06T19:33:01.548Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:33:14.357Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:33:46.381Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:35:25.052Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:35:27.671Z"}
+{"level":"info","message":{},"timestamp":"2026-01-06T19:35:27.672Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:36:08.014Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:42:13.692Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:42:18.361Z"}
+{"level":"info","message":{},"timestamp":"2026-01-06T19:42:18.362Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:42:28.658Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:42:32.908Z"}
+{"level":"info","message":{},"timestamp":"2026-01-06T19:42:32.908Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:42:55.613Z"}
+{"level":"info","message":"Servicio getUsers ","timestamp":"2026-01-06T19:43:03.741Z"}
+{"level":"info","message":{},"timestamp":"2026-01-06T19:43:03.741Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:43:20.764Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T19:43:51.371Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T20:26:27.067Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-06T20:27:25.207Z"}
+{"level":"info","message":"Servicio   getAllUsers ","timestamp":"2026-01-06T20:27:28.125Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T20:36:19.031Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T20:37:02.082Z"}
+{"level":"info","message":"Servicio   getAllUsers ","timestamp":"2026-01-06T20:37:16.406Z"}
+{"level":"info","message":"Servicio   getAllUsers ","timestamp":"2026-01-06T20:38:41.121Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T20:42:01.479Z"}
+{"level":"info","message":"Servicio   getAllUsers ","timestamp":"2026-01-06T20:42:10.459Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T20:52:07.554Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T20:52:55.353Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T22:45:57.833Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T22:49:42.108Z"}
+{"level":"info","message":"Servicio   getAllUsers ","timestamp":"2026-01-06T22:49:54.612Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T22:50:47.810Z"}
+{"level":"info","message":"Servicio   getAllUsers ","timestamp":"2026-01-06T22:50:51.959Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T23:28:45.975Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T23:34:16.340Z"}
+{"level":"info","message":"Servicio   efirmaService ","timestamp":"2026-01-06T23:34:32.607Z"}
+{"level":"info","message":"Param   certificado  - 1234567890","timestamp":"2026-01-06T23:34:33.319Z"}
+{"level":"info","message":"Param   key  - 0987654321","timestamp":"2026-01-06T23:34:33.975Z"}
+{"level":"info","message":"Param   Password  - admin2026","timestamp":"2026-01-06T23:34:34.655Z"}
+{"level":"info","message":"Param   Cadena  - enero2026","timestamp":"2026-01-06T23:34:35.303Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T23:39:41.403Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T23:54:36.178Z"}
+{"level":"info","message":"Servicio   efirmaService ","timestamp":"2026-01-06T23:54:47.504Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T23:55:08.397Z"}
+{"level":"info","message":"Servicio   efirmaService ","timestamp":"2026-01-06T23:55:15.443Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-06T23:56:00.491Z"}
+{"level":"info","message":"Servicio   efirmaService ","timestamp":"2026-01-06T23:56:07.858Z"}
+{"level":"info","message":"Param   certificado  - MTIzNDU2Nzg5MA==","timestamp":"2026-01-06T23:56:19.430Z"}
+{"level":"info","message":"Param   key  - MDk4NzY1NDMyMQ==","timestamp":"2026-01-06T23:56:19.916Z"}
+{"level":"info","message":"Param   Password  - YWRtaW4yMDI2","timestamp":"2026-01-06T23:56:20.462Z"}
+{"level":"info","message":"Param   Cadena  - enero2026","timestamp":"2026-01-06T23:56:21.378Z"}
+{"level":"info","message":"🚀 Server corriendo en 3000 ","timestamp":"2026-01-07T00:19:32.102Z"}
+{"level":"info","message":"Servicio   efirmaService ","timestamp":"2026-01-07T00:20:12.107Z"}
+{"level":"info","message":"Servicio   efirmaService ","timestamp":"2026-01-07T00:20:57.182Z"}
