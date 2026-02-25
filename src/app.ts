@@ -1,18 +1,23 @@
 import express from "express";
-import userRoutes from "./routes/user.routes";
-
+import cors from 'cors';
 import router from "./routes/index";
+import swaggerUi from "swagger-ui-express";
+import { swaggerSpec } from "./config/swagger";
+
 const app = express();
-
-// Middleware
+app.use(cors({
+  origin: 'http://localhost:5173',
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  credentials: true
+}));
 app.use(express.json());
+app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec));
+app.use("/api", router);
+// Ruta Swagger
 
-// Routes
-app.use("/", router);
 
-// Ruta de prueba
-app.get("/", (req, res) => {
-  res.send("API funcionando 🚀");
+app.get("/", (_req, res) => {
+  res.send("API FGJ CDMX SSO APINodejs + Typescript + Postgres 🚀");
 });
 
 export default app;

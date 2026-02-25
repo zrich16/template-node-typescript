@@ -1,11 +1,10 @@
-import { Router } from "express";
-import userRoutes from "./user.routes";
-import efirmaRoutes from "./efirma.routes";
+import express from 'express';
 
-const router = Router();
+import ssoapiRoutes from "./ssoapi.routes";
 
-// Se agregan todos los routers de módulos
-router.use("/api/users", userRoutes);
-router.use("/api/efirma", efirmaRoutes);
+const router = express.Router();
+
+
+router.use("/ssoapi", ssoapiRoutes);
 
 export default router;
